@@ -43,3 +43,11 @@ th, td {
   padding: 12px 14px;
   text-align: center;
 }  
+
+div{
+  border: 8pxsolid #e6d45a;
+  padding:20px 80px;
+  background: #67c8d7;
+  width:100px;
+  border-radius:45px;
+}
